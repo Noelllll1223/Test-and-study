@@ -5,7 +5,47 @@
       "ProjectGuid": "ac73cb5e-e7eb-404f-a62c-25855e0d01d9",
       "DisplayName": "study test",
       "ColorIndex": 0
+    },
+    "67ac060d-a2b6-4b5b-bab6-9c1a5dd97d18": {
+      "ProjectGuid": "67ac060d-a2b6-4b5b-bab6-9c1a5dd97d18",
+      "DisplayName": "0215study",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "54ea8a12-3db8-4bbc-8bbd-a08d670c5d7b": {
+      "ProjectGuid": "54ea8a12-3db8-4bbc-8bbd-a08d670c5d7b",
+      "DisplayName": "0215 enum",
+      "ColorIndex": 2
+    },
+    "841cfd67-49f1-430d-ac0e-3ddb1a6150c1": {
+      "ProjectGuid": "841cfd67-49f1-430d-ac0e-3ddb1a6150c1",
+      "DisplayName": "0215pointer",
+      "ColorIndex": 3
+    },
+    "af60a70c-46a0-478c-983e-6611dcec2725": {
+      "ProjectGuid": "af60a70c-46a0-478c-983e-6611dcec2725",
+      "DisplayName": "defintion",
+      "ColorIndex": 4
+    },
+    "8333cff7-a7c0-431a-bf16-80fc162d07c7": {
+      "ProjectGuid": "8333cff7-a7c0-431a-bf16-80fc162d07c7",
+      "DisplayName": "scanf",
+      "ColorIndex": 5
+    },
+    "6b432cc0-1d63-47ee-8b04-cbaa3dc5e6c3": {
+      "ProjectGuid": "6b432cc0-1d63-47ee-8b04-cbaa3dc5e6c3",
+      "DisplayName": "0215 consor",
+      "ColorIndex": 6
+    },
+    "81c3835b-21cc-495c-ae26-b806efb4e9b8": {
+      "ProjectGuid": "81c3835b-21cc-495c-ae26-b806efb4e9b8",
+      "DisplayName": "연산자",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 8
 }
