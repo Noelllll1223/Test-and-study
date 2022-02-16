@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c904a890-b161-4655-8c78-03d05c24969b": {
+      "ProjectGuid": "c904a890-b161-4655-8c78-03d05c24969b",
+      "DisplayName": "0216논리연산자",
+      "ColorIndex": 0
+    },
+    "5d2b3a46-8437-4431-b4dd-9db41c161993": {
+      "ProjectGuid": "5d2b3a46-8437-4431-b4dd-9db41c161993",
+      "DisplayName": "논리연산자",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

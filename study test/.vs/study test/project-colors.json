@@ -45,7 +45,47 @@
       "ProjectGuid": "81c3835b-21cc-495c-ae26-b806efb4e9b8",
       "DisplayName": "연산자",
       "ColorIndex": 7
+    },
+    "493fff9e-d855-4da3-984e-e058a78ab108": {
+      "ProjectGuid": "493fff9e-d855-4da3-984e-e058a78ab108",
+      "DisplayName": "0216IF문",
+      "ColorIndex": 8
+    },
+    "e8aef4cd-76f0-40bf-8491-217b09e2e04c": {
+      "ProjectGuid": "e8aef4cd-76f0-40bf-8491-217b09e2e04c",
+      "DisplayName": "main.c",
+      "ColorIndex": 9
+    },
+    "45e58da0-a95b-4324-abae-93da0370732b": {
+      "ProjectGuid": "45e58da0-a95b-4324-abae-93da0370732b",
+      "DisplayName": "0216논리연산자",
+      "ColorIndex": 10
+    },
+    "81d86d6c-5723-427b-8ec2-4b92e64c9bca": {
+      "ProjectGuid": "81d86d6c-5723-427b-8ec2-4b92e64c9bca",
+      "DisplayName": "0216swich",
+      "ColorIndex": 11
+    },
+    "98799953-3fc3-45ba-8c15-9ada4e8bfd7b": {
+      "ProjectGuid": "98799953-3fc3-45ba-8c15-9ada4e8bfd7b",
+      "DisplayName": "0216movesharp",
+      "ColorIndex": 12
+    },
+    "4fc1437a-8a49-40d8-9690-39b5d78b7380": {
+      "ProjectGuid": "4fc1437a-8a49-40d8-9690-39b5d78b7380",
+      "DisplayName": "0216for",
+      "ColorIndex": 13
+    },
+    "2247809b-9c59-44dd-a665-149a63a22aab": {
+      "ProjectGuid": "2247809b-9c59-44dd-a665-149a63a22aab",
+      "DisplayName": "ruler",
+      "ColorIndex": 14
+    },
+    "65709255-3a1a-48e5-8fc5-05ac9c824979": {
+      "ProjectGuid": "65709255-3a1a-48e5-8fc5-05ac9c824979",
+      "DisplayName": "while",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 0
 }

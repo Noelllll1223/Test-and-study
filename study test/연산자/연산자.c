@@ -7,7 +7,7 @@ int main()
 	//int a = (char)num;
 
 	//printf("평균 = %d\n", sum / num);
-	//printf("평균 = %f\n", (double)sum / (char)num);
+	//printf("평균 = %f\n", (double)sum / (char)num); double은 실수로 바꿔준다.
 
 	int sum = 300;
 	int num = 231;
@@ -22,7 +22,7 @@ int main()
 	//double d = 2.41;
 
 	//int b = a + d;
-	//printf("b = %d\n", b);
+	//printf("b = %d\n", b);    // %d 정수 값 출력 %f는 실수 값 출력한다.
 	// 
 	//---------------------------------------------
 	// 
