@@ -1,14 +1,22 @@
-﻿
+﻿#include <stdio.h>
 
-#include <stdio.h>
-
-int main()
+int main() //다이아몬드 완성
 {
 	for (int a = 1; a <= 10; a++) {
-		for (int b = 1; b <= 10-a; b++) {
-			printf("0");
+		for (int b = 1; b <= 10-a ; b++) {
+			printf(" ");
 		}
-		for (int b = 1; b <= a * 2 - 1; b++) {
+		for (int d = 1; d <= 2*a - 1; d++) {
+			printf("*");
+		}
+
+		puts("");
+	}
+	for (int c = 9; c >= 1; c--) {
+		for (int e = 9; e >= c; e--) {
+			printf(" ");
+		}
+		for (int f = 1; f <= 2*c-1; f++) {
 			printf("*");
 		}
 		puts("");

@@ -4,7 +4,7 @@
 
 int main() {
 	
-	int x = 25, y = 25;
+	int x = 25, y = 10;
 	int ch;
 
 	clrscr();
@@ -16,26 +16,27 @@ int main() {
 		if (ch == 0xE0 || ch == 0) {
 			ch = _getch();
 			switch (ch) {
-			case '75':
+			case 75:
 				x--;
 				break;
-			case '77':
+			case 77:
 				x++;
 				break;
-			case '72':
+			case 72:
 				y--;
 				break;
-			case '80':
+			case 80:
 				y++;
 				break;
 			}
 		}
 		else {
-			ch = _getch(' ');
-			clrscr();
+			ch = _getch();
 			switch (ch) {
-			case'q':
-			case'Q':
+			case ' ':
+				clrscr();
+			case 'q':
+			case 'Q':
 				exit(0);
 			}
 		}

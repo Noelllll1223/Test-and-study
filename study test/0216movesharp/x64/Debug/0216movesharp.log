@@ -1,3 +1,2 @@
 ﻿  0216movesharp.c
-C:\Users\USER\test1\study test\0216movesharp\0216movesharp.c(34,16): warning C4087: '_getch': 'void' 매개 변수 목록을 사용하여 선언되었습니다.
   0216movesharp.vcxproj -> C:\Users\USER\test1\study test\x64\Debug\0216movesharp.exe
