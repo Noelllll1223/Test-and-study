@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/USER/test1/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/app.out.dir/main.c.o   -c \"/mnt/c/Users/USER/test1/study test/0222study/main.c\"",
+  "file": "/mnt/c/Users/USER/test1/study test/0222study/main.c"
+}
+]

@@ -1,0 +1,5 @@
+/mnt/c/Users/USER/test1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/USER/test1/build/CMakeFiles/package_source.dir
+/mnt/c/Users/USER/test1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/USER/test1/build/CMakeFiles/package.dir
+/mnt/c/Users/USER/test1/build/CMakeFiles/app.out.dir

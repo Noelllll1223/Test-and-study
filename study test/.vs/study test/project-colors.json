@@ -120,7 +120,27 @@
       "ProjectGuid": "811b7c56-5d6a-4406-8cd6-fa885bce7f51",
       "DisplayName": "byref",
       "ColorIndex": 6
+    },
+    "83416cf6-a708-45a2-872b-85a6afc0b934": {
+      "ProjectGuid": "83416cf6-a708-45a2-872b-85a6afc0b934",
+      "DisplayName": "전처리기 study",
+      "ColorIndex": 7
+    },
+    "80b32875-5055-4b52-be7f-c14ea1b68313": {
+      "ProjectGuid": "80b32875-5055-4b52-be7f-c14ea1b68313",
+      "DisplayName": "drawbox study",
+      "ColorIndex": 8
+    },
+    "6b2d845f-3fb3-429c-b3bc-65262f66243f": {
+      "ProjectGuid": "6b2d845f-3fb3-429c-b3bc-65262f66243f",
+      "DisplayName": "str Function",
+      "ColorIndex": 9
+    },
+    "1d0edff3-6bea-400b-9ab7-cf3bc7fee80c": {
+      "ProjectGuid": "1d0edff3-6bea-400b-9ab7-cf3bc7fee80c",
+      "DisplayName": "0222study_1",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 11
 }

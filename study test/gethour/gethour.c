@@ -5,7 +5,7 @@ int gethour()
 {
 	time_t t;
 	time(&t);
-	struct tm *pt = localtime_s(&t);
+	struct tm *pt = localtime_r(&t);
 	return pt->tm_hour;
 }
 
