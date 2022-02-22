@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-#include <stdio.h>
-
 #define RANGE 50
 
 int main()
@@ -25,6 +23,18 @@ int main()
            prime[l]=0;
        }
    }
+
+   for (int l=6; l<=RANGE; l++){
+       if(l%5 ==0){
+           prime[l]=0;
+       }
+   }
+   for (int l=8; l<=RANGE; l++){
+       if(l%7 ==0){
+           prime[l]=0;
+       }
+   }
+
 	
 	// 남은 소수 출력
 	printf("%d까지의 소수만 출력\n", RANGE);
@@ -44,7 +54,7 @@ int main()
 		"when the wicked carried us away in captivity"
 		"required from us a song"
 		"now how shall we sing the lord's song in a strange land";
-	int alpha[26] = { 0, };
+	int alpha[26] = { 0, };  
 
     for (int i=0; i<=sizeof(song); i++){
         if (song[i]>='a' && song[i]<='z')
