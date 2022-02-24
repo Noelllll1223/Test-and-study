@@ -1,0 +1,1 @@
+ADD_EXECUTABLE( app.out bitfield.c bitop.c deepcopy.c main.c shallowcopy.c struct.c structarr.c structassign.c structnest.c structpoint.c structrest.c structreturn.c structTag.c structunion.c )

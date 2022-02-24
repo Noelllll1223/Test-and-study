@@ -2,5 +2,6 @@
     "cmake.sourceDirectory": "${workspaceFolder}/study test/0222study",
     "files.associations": {
         "stdio.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }

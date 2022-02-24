@@ -1,0 +1,3 @@
+/mnt/c/Users/USER/test1/study test/0224study/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/USER/test1/study test/0224study/CMakeFiles/edit_cache.dir
+/mnt/c/Users/USER/test1/study test/0224study/CMakeFiles/app.out.dir

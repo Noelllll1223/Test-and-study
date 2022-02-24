@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/USER/test1/study test/0224study/deepcopy.c
+stdio.h
+-
+malloc.h
+-
+string.h
+-
+
+/mnt/c/Users/USER/test1/study test/0224study/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
