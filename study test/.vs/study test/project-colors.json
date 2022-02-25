@@ -140,7 +140,17 @@
       "ProjectGuid": "1d0edff3-6bea-400b-9ab7-cf3bc7fee80c",
       "DisplayName": "0222study_1",
       "ColorIndex": 10
+    },
+    "982b94ab-c82a-47bd-ac38-1782d9c76530": {
+      "ProjectGuid": "982b94ab-c82a-47bd-ac38-1782d9c76530",
+      "DisplayName": "fileiostudy",
+      "ColorIndex": 11
+    },
+    "d2495585-1a7c-477a-9dcf-0a9c948cdb0c": {
+      "ProjectGuid": "d2495585-1a7c-477a-9dcf-0a9c948cdb0c",
+      "DisplayName": "sokoban",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 13
 }
