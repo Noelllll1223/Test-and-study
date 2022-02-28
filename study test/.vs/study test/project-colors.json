@@ -150,7 +150,12 @@
       "ProjectGuid": "d2495585-1a7c-477a-9dcf-0a9c948cdb0c",
       "DisplayName": "sokoban",
       "ColorIndex": 12
+    },
+    "288296ac-de38-49cd-9344-64fa791d14a3": {
+      "ProjectGuid": "288296ac-de38-49cd-9344-64fa791d14a3",
+      "DisplayName": "0228study",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
