@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\USER\test1\MiniProject\MiniProject\screen.h(16,1): error C2059: 구문 오류: '}'
+C:\Users\USER\test1\MiniProject\MiniProject\screen.h(13,7): error C2182: 'show': 'void' 형식을 잘못 사용했습니다.
+C:\Users\USER\test1\MiniProject\MiniProject\main.cpp(6,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
