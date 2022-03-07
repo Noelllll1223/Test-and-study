@@ -160,7 +160,17 @@
       "ProjectGuid": "7f0ffd76-adc8-47b6-b3f0-f0afffe1c768",
       "DisplayName": "0304study",
       "ColorIndex": 14
+    },
+    "4e649a06-95c2-466e-bb53-0273e65adcf3": {
+      "ProjectGuid": "4e649a06-95c2-466e-bb53-0273e65adcf3",
+      "DisplayName": "0307study",
+      "ColorIndex": 15
+    },
+    "b4aa27ab-1d75-4438-b38e-0dcfacfccfb6": {
+      "ProjectGuid": "b4aa27ab-1d75-4438-b38e-0dcfacfccfb6",
+      "DisplayName": "test1",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 1
 }

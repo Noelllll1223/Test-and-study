@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\USER\test1\study test\0307study\stack.h(20,16): error C2065: 'm_Datas': 선언되지 않은 식별자입니다.
+C:\Users\USER\test1\study test\0307study\stack.h(52): message : 컴파일되는 클래스 템플릿 인스턴스화 'Stack<T>'에 대한 참조를 확인하세요.
+C:\Users\USER\test1\study test\0307study\stack.h(20,16): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(21,4): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(24,35): error C2760: 구문 오류: 여기서 '식별자'은(는) 예상치 못한 오류였습니다. 예상된 오류는 '형식 지정자'였습니다
+C:\Users\USER\test1\study test\0307study\stack.h(24,42): error C3878: 구문 오류: 예기치 않은 토큰 '.'이(가) 'expression' 다음에 있습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(24,42): message : 오류 복구를 건너뛰었습니다. '. 식별자 ('
+C:\Users\USER\test1\study test\0307study\stack.h(24,48): error C2760: 구문 오류: 여기서 ')'은(는) 예상치 못한 오류였습니다. 예상된 오류는 ';'였습니다
+C:\Users\USER\test1\study test\0307study\stack.h(24,48): error C3878: 구문 오류: 예기치 않은 토큰 ')'이(가) 'jump_statement' 다음에 있습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(24,48): message : 오류 복구를 건너뛰었습니다. ') >'
+C:\Users\USER\test1\study test\0307study\stack.h(25,26): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(30,3): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(41,18): error C2065: 'm_Datas': 선언되지 않은 식별자입니다.
+C:\Users\USER\test1\study test\0307study\stack.h(41,18): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(42,4): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(46,18): error C2065: 'm_Datas': 선언되지 않은 식별자입니다.
+C:\Users\USER\test1\study test\0307study\stack.h(46,18): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(47,4): error C3861: 'm_Datas': 식별자를 찾을 수 없습니다.
+C:\Users\USER\test1\study test\0307study\main.h(99,6): error C2084: 'void stac(void)' 함수에 이미 본문이 있습니다.
+C:\Users\USER\test1\study test\0307study\stack.h(54): message : 'stac'의 이전 정의를 참조하십시오.
+C:\Users\USER\test1\study test\0307study\main.cpp(10,2): error C2065: 'stac': 선언되지 않은 식별자입니다.

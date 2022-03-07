@@ -145,6 +145,7 @@
     <ClInclude Include="Unit.h" />
     <ClInclude Include="screen.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="input.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

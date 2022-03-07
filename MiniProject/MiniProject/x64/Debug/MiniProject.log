@@ -1,4 +1,9 @@
 ﻿  main.cpp
-C:\Users\USER\test1\MiniProject\MiniProject\screen.h(16,1): error C2059: 구문 오류: '}'
-C:\Users\USER\test1\MiniProject\MiniProject\screen.h(13,7): error C2182: 'show': 'void' 형식을 잘못 사용했습니다.
-C:\Users\USER\test1\MiniProject\MiniProject\main.cpp(6,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+C:\Users\USER\test1\MiniProject\MiniProject\screen.h(15,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\USER\test1\MiniProject\MiniProject\screen.h(18,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\USER\test1\MiniProject\MiniProject\screen.h(21,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\USER\test1\MiniProject\MiniProject\screen.h(22,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\USER\test1\MiniProject\MiniProject\screen.h(23,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\USER\test1\MiniProject\MiniProject\input.h(18,6): warning C4551: 함수 호출에 인수 목록이 없습니다.
+C:\Users\USER\test1\MiniProject\MiniProject\input.h(20,6): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  MiniProject.vcxproj -> C:\Users\USER\test1\MiniProject\x64\Debug\MiniProject.exe
