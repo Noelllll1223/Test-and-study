@@ -170,7 +170,12 @@
       "ProjectGuid": "b4aa27ab-1d75-4438-b38e-0dcfacfccfb6",
       "DisplayName": "test1",
       "ColorIndex": 0
+    },
+    "0b832799-eaf8-42bd-807c-ce584d50f136": {
+      "ProjectGuid": "0b832799-eaf8-42bd-807c-ce584d50f136",
+      "DisplayName": "0308study",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
