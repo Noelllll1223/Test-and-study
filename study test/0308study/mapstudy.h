@@ -54,7 +54,7 @@ int mapstudy()
 	cout << "아이템 가격 내림순으로 정열되어 있는 map(Key 자료형으로 string 사용)" << endl;
 
 	multimap<int, Item, greater<int>>Items2;
-	multimap<int, Item, greater<int>>::iterator IterPos2;
+	multimap<int, Item, greater<int>>::iterator IterPos2;1
 
 	Items2.insert(multimap<int, Item>::value_type(Item2.BuyMoney, Item2));
 	Items2.insert(ItemPair(Item1.BuyMoney, Item1));

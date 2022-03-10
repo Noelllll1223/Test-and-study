@@ -175,7 +175,22 @@
       "ProjectGuid": "0b832799-eaf8-42bd-807c-ce584d50f136",
       "DisplayName": "0308study",
       "ColorIndex": 1
+    },
+    "54ca4cbf-f702-4596-9aa0-c960183dbe29": {
+      "ProjectGuid": "54ca4cbf-f702-4596-9aa0-c960183dbe29",
+      "DisplayName": "0310study",
+      "ColorIndex": 2
+    },
+    "77e10d57-9801-4c4f-a1c2-86e47ae0ab2a": {
+      "ProjectGuid": "77e10d57-9801-4c4f-a1c2-86e47ae0ab2a",
+      "DisplayName": "0303study",
+      "ColorIndex": 3
+    },
+    "25983e82-3a22-447c-bcbb-667137dd42f7": {
+      "ProjectGuid": "25983e82-3a22-447c-bcbb-667137dd42f7",
+      "DisplayName": "c++capsul",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }
